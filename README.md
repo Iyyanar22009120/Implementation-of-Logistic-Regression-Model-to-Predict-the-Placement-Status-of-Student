@@ -78,7 +78,30 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+1.Placement Data
+![1p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/f0840ff7-6860-46e2-bed1-aec9a71f90d5)
+2.Salary Data
+![2p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/05b6cbd0-d4f5-420d-b484-cbe25b3ca789)
+3. Checking the null function()
+![3p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/b7857a66-c539-4274-8090-299d90fbe85f)
+4.Data Duplicate
+![4p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/901068d3-cbce-47f4-8650-fc8e937a1b69)
+5.Print Data
+![5p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/792a4b0a-94be-4e5d-8b13-0a2c454c6080)
+
+![6p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/d39b739a-2e97-4b47-9488-f371d8206dae)
+6.Data Status
+![7p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/7ca48133-d7dc-4a3c-a4aa-b4742c3954bf)
+7.y_prediction array
+![8p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/69422639-ca7d-40d3-86af-d749b7b864ef)
+8.Accuracy value
+![9p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/63d15d7d-5106-40f1-b08c-041ecee8aa62)
+9.Confusion matrix
+![10p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/2ba76894-ab27-4489-b2d6-8612dd7e3f7e)
+10.Classification Report
+![11p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/fb1dc13e-11b1-4326-9a3f-0d2168b052d8)
+11.Prediction of LR
+![12p](https://github.com/Iyyanar22009120/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118680259/e24025b0-d87b-4d8b-aca0-9c945889424a)
 
 
 ## Result:
